@@ -15,10 +15,9 @@ Follow the instructions line-by-line.
 $ ls<ENTER>
 
 Copy and paste the output of ls below.
-Creative Cloud Files    Downloads               Music
+Downloads               Music                   house
 Desktop                 Library                 Pictures
 Documents               Movies                  Public
-Code  Desktop  Documents  Downloads  Movies  Music  Pictures  textfile.txt
 
 
 ==========
@@ -43,7 +42,7 @@ rdrgeerwtger yg erwy brg
 
 
 
-No output
+MTEC1003        f.docx
 3.  Type:
 
 $ ls -l Documents<ENTER>
@@ -111,11 +110,11 @@ ls: doesnotexist: No such file or directory
 
 
 10.  Name two flags that we used in this exercise.
-tab and up
+-a and -l
 
 
 
-<UP>
+
 11.  What key do I use to attempt to autocomplete a command or a file name?
 
 
@@ -150,4 +149,4 @@ zsh: command not found: foo
 $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
-ls is the command, and -a desktop is the prompt.
+ls is the command, -a is the flag, there is no argument and desktop is the prompt.
