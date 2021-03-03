@@ -111,7 +111,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/
 
 ==========
 12. Type:
@@ -123,7 +123,8 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-
+total 9
+drwxrwxr-x  25 root  admin   800 Feb 24 19:57 Applications
 
 ==========
 13. Type:
@@ -134,7 +135,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/ryan
 
 ==========
 14. Type:
@@ -145,7 +146,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -156,7 +157,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -167,13 +168,13 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 16a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+cd
 
 ==========
 16b. If you're not in the right directory, type the following command:
@@ -195,8 +196,8 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
-
+ 
+mkdir pineapple orange strawberry lemon
 
 ==========
 18. Make another directory called aardvark.  
@@ -204,7 +205,7 @@ Use only one command to make all of these new directories.  Write what command y
 Write the command you used to create the directory below:
 ----------
 
-
+mkdir aardvark
 
 ==========
 19. List the files and directories in the current directory using the long format.  
@@ -212,7 +213,9 @@ Write the command you used to create the directory below:
 What is the modified date of the aardvark directory?
 ----------
 
-
+Desktop         Music           aardvark        food            pineapple
+Documents       Pictures        animals         lemon           strawberry
+MTEC1003        Videos          foo             orange
 
 ==========
 20. Make 3 directories nested within each other:
