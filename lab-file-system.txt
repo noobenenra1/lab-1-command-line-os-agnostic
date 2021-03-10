@@ -227,7 +227,7 @@ MTEC1003        Videos          foo             orange
 What command did you use?
 ----------
 
-
+mkdir -p foo/bar/baz
 
 ==========
 21. Change your directory so that you're in the inner most directory (baz)
@@ -235,38 +235,38 @@ What command did you use?
 What command did you use?
 ----------
 
-
+cd baz
 
 ==========
 22. Change your directory so that you're two directories up (foo)
 
 What command did you use?
 ----------
-
+cd foo
 
 ==========
 23. What command is used to delete empty directories?
 ----------
 
-
+rmdir
 
 ==========
 24. What command is used to print out your current working directory?
 ----------
 
-
+pwd
 
 ==========
 25. What flag do I pass to ls to print out all files?
 ----------
 
-
+-a
 
 ==========
 26. What's the shortcut for home directory?
 ----------
 
-
+cd
 
 ==========
 27. What's a pathname?
